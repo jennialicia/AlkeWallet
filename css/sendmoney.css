@@ -1,5 +1,5 @@
 body {
-    background-color:darkcyan;
+    background-color:mediumpurple;
     padding: 20px;
   }
   
@@ -13,7 +13,7 @@ body {
     max-width: 100%;
     margin-top: 30px;
     padding: 0px;
-    background-color:crimson;
+    background-color:gray;
     color: #fff8e1;
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
     text-align: center;
@@ -26,13 +26,13 @@ body {
   .form-group {
     font-size: 20px;
     margin-top: 20px;
-    background-color:chocolate;
+    background-color:blueviolet;
   }
   .list-group{
     font-size: 16px;
     margin-top: 20px;
     margin-bottom: 30px;
-    background-color:brown;
+    background-color:blueviolet;
     }
     li:hover{
       background-color:#dad7eb;
