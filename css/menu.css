@@ -1,0 +1,52 @@
+
+.container-fluid{
+    width: 75%;
+    height: 75%;
+    align-items: center;
+    justify-content: center;
+    min-height: 100;
+    margin: auto;
+    display: block;
+
+}
+
+h1 {
+    font-size: 28px;
+}
+
+.card-text{
+    font-size: 26px;
+    font-weight: bold;
+}
+.card-vence{
+    margin-left: 80%;
+}
+
+.card-money{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0%;
+}
+
+.card-master{
+    width: 15%;
+    margin-left: 80%;
+    margin-top: 0%;
+}
+
+.card {
+    width: 75%;
+    height: 85;
+    margin-top: 5%;
+    margin-left: 14%;
+    
+    color: #ffff;
+    background:linear-gradient( #0000ff, #5794fe )
+
+}
+
+.col-6 {
+    margin-left: 45%;
+    padding-left: 25px;
+    width: 12px;
+}
